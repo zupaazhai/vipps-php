@@ -25,7 +25,8 @@ class Config extends Model
     'accessTokenSubscriptionKey',
     'ecommerceSubscriptionKey',
     'callbackPrefix',
-    'fallBack'
+    'fallBack',
+    'isApp'
   ];
 
   /**
